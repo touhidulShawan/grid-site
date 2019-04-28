@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700");
+:root {
+  --primary: #031927;
+  --secondary: #c70039;
+  --dark: #333;
+  --light: #fff;
+  --light2: #ddd;
+  --coral: lightcoral;
+  --shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 30px 50px;
+  line-height: 1.4;
+}
